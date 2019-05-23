@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CropView">
+        <attr name="cornerColor" format="color" />
+        <attr name="cornerDrawable" format="reference" />
+        <attr name="cornerSize" format="dimension" />
+        <attr name="edgeColor" format="color" />
+        <attr name="initWidth" format="dimension" />
+        <attr name="initHeight" format="dimension" />
+        <attr name="minimumSize" format="dimension" />
+        <attr name="outsideCropColor" format="color" />
+    </declare-styleable>
+</resources>
